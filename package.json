@@ -1,0 +1,13 @@
+{
+  "name": "technotes",
+  "version": "1.0.0",
+  "description": "Example app following the MERN stack. Based on Dave Gray's YouTube series",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
